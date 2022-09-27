@@ -6,13 +6,6 @@ Referring to figure one, you are required to write the RTL Verilog files for all
 ![image](https://user-images.githubusercontent.com/82510750/157867565-066f0412-304c-4fe9-a7b4-102e4f9c5aa8.png)
 ## Top_Module View :
 ![image](https://user-images.githubusercontent.com/82510750/157869058-734efa55-eaf3-473f-8c92-df1c9dc5a876.png)
-![n1](https://user-images.githubusercontent.com/82510750/157869226-b63db45b-742f-4185-838f-07693d03966f.PNG)
-## Mips block design :
-![n2](https://user-images.githubusercontent.com/82510750/157869323-4b0f4356-029a-4ebd-bf02-0b1f68047fcf.PNG)
-## Datapath block design :
-![datapath](https://user-images.githubusercontent.com/82510750/157869760-fa4ea8ea-fe16-411d-80a2-816aca76ab32.PNG)
-## Testing block through the fpga
-![confg through fpga](https://user-images.githubusercontent.com/82510750/157870141-d9e25d71-d001-45f6-9b88-fb0f7338b4b1.PNG)
 
 # Simulation Results 
 - Calculating  the GCD of two Numbers **(120 , 180)**
